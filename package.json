@@ -1,0 +1,24 @@
+{
+  "name": "es6-quick-start",
+  "version": "1.0.0",
+  "description": "es6 quick start",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymyang/es6-quick-start.git"
+  },
+  "keywords": [
+    "es6",
+    "javascript",
+    "ECMAScript"
+  ],
+  "author": "ymyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ymyang/es6-quick-start/issues"
+  },
+  "homepage": "https://github.com/ymyang/es6-quick-start#readme"
+}
